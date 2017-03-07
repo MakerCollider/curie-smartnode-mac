@@ -7,7 +7,8 @@ Install
 
 1. Install nodejs on your Mac OS X.
 
-2. Download the latest version of Curie-SmartNode from official website.<http://repository.smartnode.io/download>.
+2. Download the latest version of Curie-SmartNode from official website.
+   <http://repository.smartnode.io/download>.
 
 3. install curie101 drivers on Arduino. Guide: run arduino IDE->menus->tools->Boards Manager.
 
@@ -18,7 +19,8 @@ Install
 
 6. Connect Curie101 board to your computer properly.
 
-7. Drag "to curie" node and other nodes to flows depend on your needs,then click "Deploy" to download codes and run.
+7. Drag "to curie" node and other nodes to flows depend on your needs,
+   then click "Deploy" to download codes and run.
 
 ```
 
@@ -26,6 +28,7 @@ Example Learning
 
 ```bash
 
-Your can download the example from <http://repository.smartnode.io/download/Curie-SN/examples>,then use the editor to open it,copy and import to smartnode.
+Your can download the example from <http://repository.smartnode.io/download/Curie-SN/examples>,
+then use the editor to open it,copy and import to smartnode.
 
 ```
